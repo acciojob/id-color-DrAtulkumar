@@ -7,13 +7,13 @@
 }
 #red{
 	background: red;
-	border-width: 1px;
+	border-width: 3px;
 	border-color: black;
 	border-style: solid;
 }
 #green{
 	background: green;
-	border-width: 1px;
+	border-width: 3px;
 	border-color: yellow;
 	border-style: solid;
 }
